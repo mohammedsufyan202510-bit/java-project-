@@ -44,11 +44,11 @@ java-project-/
 
 **Compile:**
 ```bash
-javac Main.java
+javac ceaser.java
 ```
 ###Run:
 ```bash
-java Main
+ceaser.java
 ```
 ###To run a specific file:
 ```bash
